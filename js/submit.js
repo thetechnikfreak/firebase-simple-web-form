@@ -1,11 +1,11 @@
 
 var config = {
-    apiKey: "<your-api-key>",
-    authDomain: "<your-auth-domain>",
-    databaseURL: "<your-database-url>",
-    projectId: "<your-project-id>",
-    storageBucket: "<your-storage_bucket>",
-    messagingSenderId: "<your-message-sender-id>"
+  apiKey: "AIzaSyD3Xqmh2HZNAuUYeVv7BB_kI0fZC51UDjs",
+  authDomain: "impactful-hawk-359509.firebaseapp.com",
+  projectId: "impactful-hawk-359509",
+  storageBucket: "impactful-hawk-359509.appspot.com",
+  messagingSenderId: "230259727048",
+  appId: "1:230259727048:web:f517e56295355b44d023fd"
 };
 firebase.initializeApp(config);
 window.onload = function () {
